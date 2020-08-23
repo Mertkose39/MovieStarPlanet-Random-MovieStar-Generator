@@ -1,0 +1,10 @@
+C:\Users\Mert\source\repos\Random Msp\Random Msp\bin\Debug\Random Msp.exe.config
+C:\Users\Mert\source\repos\Random Msp\Random Msp\bin\Debug\Random Msp.exe
+C:\Users\Mert\source\repos\Random Msp\Random Msp\bin\Debug\Random Msp.pdb
+C:\Users\Mert\source\repos\Random Msp\Random Msp\obj\Debug\Random Msp.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\Random Msp\Random Msp\obj\Debug\Random_Msp.Form1.resources
+C:\Users\Mert\source\repos\Random Msp\Random Msp\obj\Debug\Random_Msp.Properties.Resources.resources
+C:\Users\Mert\source\repos\Random Msp\Random Msp\obj\Debug\Random Msp.csproj.GenerateResource.cache
+C:\Users\Mert\source\repos\Random Msp\Random Msp\obj\Debug\Random Msp.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Random Msp\Random Msp\obj\Debug\Random Msp.exe
+C:\Users\Mert\source\repos\Random Msp\Random Msp\obj\Debug\Random Msp.pdb
